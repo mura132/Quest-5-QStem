@@ -1,4 +1,3 @@
 # Quests-QStem
-Quest 5 code 
-Quest 6 code
-Quest 7 code
+All codes of Quests from 5 to 14
+and more)
